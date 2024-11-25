@@ -12,6 +12,17 @@ body {
   color: #e15f41;
 } 
 
+.navbar-toggler:hover {
+  border: 2px #e8e5e5 solid;
+  background-color:#e8e5e5 ;
+  color: #e8e5e5;
+}
+
+.navbar-toggler {
+  background-color:#e8e5e5 ;
+  color: #e8e5e5;
+}
+
 #cabecalho .nav 
 .nav-link,.navbar-bland,
 .nav-cardapio .nav-link.active:hover
