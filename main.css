@@ -4,7 +4,7 @@ body {
 }
 
 .navbar {
-  background-color: #e15f41;
+  background-color: #292726;
 }
 
 #cabecalho .nav .nav-link.active {
@@ -29,7 +29,7 @@ body {
 }
 
 .text-colab {
-  color: #e15f41;
+  color: #b63411;
   
 }
 
@@ -39,8 +39,8 @@ body {
   align-items: center;
 }
 
-#sobre-o-restaurante, #cardapio {
-  background-color:#ffeae6 ;
+#sobre-a-academia, #cardapio {
+  background-color:#f3ebea ;
 }
 
 .btn {
@@ -100,10 +100,24 @@ body {
   color: #ffeae6;
 }
 
+.background-color-interface  {
+  background-color: #292726;
+}
+
+body {
+  background-color: #292726;
+}
+
 @media (max-width:767px)  {
   header {
     background-color: #83665f;
     padding-bottom: 20px;
+  }
+
+  .container {
+    margin-right: 20px;
+
+
   }
   .navbar {
     padding-bottom:0px ;
